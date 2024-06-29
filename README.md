@@ -15,6 +15,8 @@ This dashboard is created using Power BI.
 - Attrition by department, job role, age group, and salary slab.
 - Correlation between attrition and job satisfaction rating.
 - Monthly income trend by job role and its association with attrition.
+
+![Dashboard](https://github.com/routshruti/HR-Analytics-Dashoard-Using-PowerBI/blob/main/HR%20Analytics%20Dashboard%20View.png?raw=true)
  
 ## Insights:
 - Employees aged 26-35 are more likely to leave the company.
