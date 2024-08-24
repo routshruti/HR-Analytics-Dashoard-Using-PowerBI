@@ -16,7 +16,7 @@ This dashboard is created using Power BI.
 - Correlation between attrition and job satisfaction rating.
 - Monthly income trend by job role and its association with attrition.
 
-![Dashboard](https://github.com/routshruti/HR-Analytics-Dashoard-Using-PowerBI/blob/main/HR%20Analytics%20Dashboard%20View.png?raw=true)
+![Dashboard](https://github.com/routshruti/HR-Analytics-Dashoard-Using-PowerBI/blob/main/Dashboard%20View.png)
  
 ## Insights:
 - Employees aged 26-35 are more likely to leave the company.
@@ -32,3 +32,6 @@ HR team should focus on:
 - Implementing measures to improve job satisfaction and retention.
 - Reviewing salary structures to ensure competitiveness and fair compensation across job roles.
 - Monitoring attrition trends regularly to adapt HR strategies accordingly.
+
+[Check out Live Dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiOTM0ODYzYjUtZWQzMS00ZmYzLWJiMDgtYmRiMjU0ZTJlZWJlIiwidCI6Ijg2MzI4YTBhLWRhMGMtNGQzZS04OTE5LTc4OTcwMTZiMzNiMyJ9)
+
